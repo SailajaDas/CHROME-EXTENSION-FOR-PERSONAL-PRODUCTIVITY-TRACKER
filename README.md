@@ -40,3 +40,5 @@ JavaScript / ES6: Core logic for time tracking, notifications, and data manageme
 Tailwind CSS: For structuring and styling the extension interface.
 
 ## OUTPUT
+
+<img width="444" height="502" alt="Image" src="https://github.com/user-attachments/assets/83a27b8a-8854-4f09-9ba4-36c4c0aade78" />
