@@ -1,16 +1,42 @@
-# React + Vite
+# CHROME-EXTENSION-FOR-PERSONAL-PRODUCTIVITY-TRACKER
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*COMPANY*: CODTECH IT SOLUTIONS 
 
-Currently, two official plugins are available:
+*NAME*:MUZAMMIL AHMED
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*INTERN ID*:CT04DY2061
 
-## React Compiler
+*DOMAIN*:REACT.JS WEB DEVELOPMENT
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+*DURATION*:4 WEEKS
 
-## Expanding the ESLint configuration
+*MENTOR*:NEELA SANTHOSH KUMAR
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Overview
+
+The Personal Productivity Tracker is a Chrome extension built with a React-based frontend that helps users monitor and enhance their personal productivity. It allows users to set daily goals, track the time they spend on specific websites, and visualize their productivity trends over time. By providing insights into browsing habits, this tool empowers users to manage their time effectively and focus on tasks that matter most.This project is ideal for individuals who want to gain better control over their digital life and reduce time wasted on distracting websites. With a clean and interactive interface, it brings productivity monitoring directly into the browser, making it convenient and efficient.
+
+## Features
+
+**Daily Goal Setting: Users can define personalized daily productivity goals in minutes or hours. The extension will help monitor progress towards these goals in real time.
+
+**Time Tracking per Website: The extension automatically tracks the time spent on each website and categorizes it for easy analysis. It differentiates between productive and distracting sites based on user preferences.
+
+**Live Dashboard: Users can view a visual dashboard of their productivity statistics. Charts and graphs display time spent on various websites, total daily activity, and progress towards goals.
+
+** Responsive and Interactive UI: Built with React, the frontend is responsive, intuitive, and visually appealing. It supports interactive charts for productivity visualization.
+
+
+## Technologies Used
+
+React: For building the interactive and dynamic frontend.
+
+Chrome Extensions API: To integrate the extension seamlessly with the Chrome browser.
+
+Chart.js or Recharts: For visualizing productivity trends with charts and graphs.
+
+JavaScript / ES6: Core logic for time tracking, notifications, and data management.
+
+Tailwind CSS: For structuring and styling the extension interface.
+
+## OUTPUT
